@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 ## Recursion
 |  |
 | ------- |
