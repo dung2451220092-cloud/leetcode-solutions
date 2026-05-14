@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2784-check-if-array-is-good](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2784-check-if-array-is-good](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2784-check-if-array-is-good](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
