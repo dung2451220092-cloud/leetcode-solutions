@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
