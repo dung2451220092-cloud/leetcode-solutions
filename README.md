@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Dynamic Programming
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3836-maximum-score-using-exactly-k-pairs](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3836-maximum-score-using-exactly-k-pairs) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
