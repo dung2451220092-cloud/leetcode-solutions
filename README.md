@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0338-counting-bits) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3836-maximum-score-using-exactly-k-pairs](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3836-maximum-score-using-exactly-k-pairs) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
