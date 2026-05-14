@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Dynamic Programming
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
