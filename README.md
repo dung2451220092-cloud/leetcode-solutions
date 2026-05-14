@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Dynamic Programming
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2784-check-if-array-is-good](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
