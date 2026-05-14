@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3836-maximum-score-using-exactly-k-pairs](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3836-maximum-score-using-exactly-k-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3836-maximum-score-using-exactly-k-pairs](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3836-maximum-score-using-exactly-k-pairs) |
 ## Recursion
 |  |
 | ------- |
