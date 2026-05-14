@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0290-word-pattern) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
