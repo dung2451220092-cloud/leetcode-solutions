@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
