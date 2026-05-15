@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2784-check-if-array-is-good](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -177,12 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2784-check-if-array-is-good](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
