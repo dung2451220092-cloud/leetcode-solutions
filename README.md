@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0415-add-strings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Dynamic Programming
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0415-add-strings) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Tree
 |  |
