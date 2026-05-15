@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2784-check-if-array-is-good](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
