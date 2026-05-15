@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/dung2451220092-cloud/leetcode-solutions/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
